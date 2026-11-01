@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stealth Browser</string>
+    <string name="new_stealth_session">+ NEW STEALTH SESSION</string>
+    <string name="privacy_dashboard">Privacy Dashboard</string>
+    <string name="extensions">Extensions</string>
+</resources>
